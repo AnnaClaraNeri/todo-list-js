@@ -3,34 +3,20 @@ Abra o arquivo localmente no navegador.
 
 # 📝 To-Do List com JavaScript
 
-Aplicação web simples de lista de tarefas desenvolvida para praticar manipulação do DOM e lógica de programação em JavaScript.
+Aplicação web simples de lista de tarefas desenvolvida para praticar manipulação do DOM e lógica de programação.
 
-O usuário pode adicionar tarefas dinamicamente na tela.
-
-## 🚀 Funcionalidades
-• Adicionar novas tarefas  
-• Atualização dinâmica da lista  
+## Funcionalidades
+• Adicionar tarefas dinamicamente  
+• Atualização automática da lista  
 • Interação com eventos de clique  
-• Manipulação do DOM  
 
-## 🛠️ Tecnologias utilizadas
-• HTML5  
-• CSS3  
-• JavaScript (Vanilla JS)
+## Tecnologias
+HTML • CSS • JavaScript
 
-## 📚 Conceitos praticados
-• Funções em JavaScript  
-• Eventos (onclick)  
-• document.getElementById  
-• createElement  
-• appendChild  
-• Lógica básica de interface
-
-## ▶️ Como executar
+## Como executar
 1. Faça o download ou clone este repositório  
-2. Abra o arquivo `index.html` no navegador  
+2. Abra o arquivo index.html no navegador
 
-Pronto! A aplicação já estará funcionando.
+## Objetivo
+Projeto acadêmico para treinar JavaScript e desenvolvimento front-end.
 
-## 🎯 Objetivo do projeto
-Projeto acadêmico/pessoal criado para fortalecer conhecimentos em desenvolvimento front-end e lógica de programação.
