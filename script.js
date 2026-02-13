@@ -4,5 +4,7 @@ function adicionar() {
     const li = document.createElement("li");
     li.textContent = texto;
 
+    li.onclick = () => li.remove();
+
     document.getElementById("lista").appendChild(li);
 }
